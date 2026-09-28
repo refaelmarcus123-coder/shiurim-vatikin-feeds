@@ -1,0 +1,1382 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Orchot Yosher — Shiur Diário — R. Ariel Marcus</title>
+    <link>https://refaelmarcus123-coder.github.io/shiurim-vatikin-feeds/</link>
+    <description>Shiurim curtos e diários de mussar no livro Orchot Yosher (ארחות יושר), ministrados por R. Ariel Marcus. Uma série de estudos organizada em sequência, com ensinamentos para reflexão, crescimento pessoal e fortalecimento através do mussar. Ideal para começar o dia com inspiração ou reservar alguns minutos, em qualquer momento do dia, para aprender e se aprimorar. Os episódios são apresentados em ordem cronológica, preservando a data original de cada shiur.</description>
+    <language>pt-BR</language>
+    <atom:link href="https://refaelmarcus123-coder.github.io/shiurim-vatikin-feeds/01-orchot-yosher.xml" rel="self" type="application/rss+xml" />
+    <itunes:owner>
+      <itunes:name>R. Ariel Marcus</itunes:name>
+      <itunes:email>refa5518@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>R. Ariel Marcus</itunes:author>
+    <itunes:image href="https://refaelmarcus123-coder.github.io/shiurim-vatikin-feeds/orchot-yosher.png" />
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism" />
+    </itunes:category>
+    <image>
+      <url>https://refaelmarcus123-coder.github.io/shiurim-vatikin-feeds/orchot-yosher.png</url>
+      <title>Orchot Yosher — Shiur Diário — R. Ariel Marcus</title>
+      <link>https://refaelmarcus123-coder.github.io/shiurim-vatikin-feeds/</link>
+    </image>
+    <item>
+      <title>#113 Orchot Yosher</title>
+      <description>Shiur #113 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 05/12/2024.</description>
+      <pubDate>Thu, 05 Dec 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-113-2024-12-05</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-12-05.mp3" length="6936911" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>113</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #113 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 05/12/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#112 Orchot Yosher</title>
+      <description>Shiur #112 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 04/12/2024.</description>
+      <pubDate>Wed, 04 Dec 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-112-2024-12-04</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-12-04.mp3" length="7512023" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>112</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #112 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 04/12/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#111 Orchot Yosher</title>
+      <description>Shiur #111 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 03/12/2024.</description>
+      <pubDate>Tue, 03 Dec 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-111-2024-12-03</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-12-03.mp3" length="9468490" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>111</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #111 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 03/12/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#110 Orchot Yosher</title>
+      <description>Shiur #110 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 02/12/2024.</description>
+      <pubDate>Mon, 02 Dec 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-110-2024-12-02</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-12-02.mp3" length="8648872" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>110</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #110 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 02/12/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#109 Orchot Yosher</title>
+      <description>Shiur #109 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 01/12/2024.</description>
+      <pubDate>Sun, 01 Dec 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-109-2024-12-01</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-12-01.mp3" length="8084209" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>109</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #109 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 01/12/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#108 Orchot Yosher</title>
+      <description>Shiur #108 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 29/11/2024.</description>
+      <pubDate>Fri, 29 Nov 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-108-2024-11-29</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-11-29.mp3" length="8010230" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>108</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #108 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 29/11/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#107 Orchot Yosher</title>
+      <description>Shiur #107 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 28/11/2024.</description>
+      <pubDate>Thu, 28 Nov 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-107-2024-11-28</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-11-28.mp3" length="7843465" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>107</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #107 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 28/11/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#106 Orchot Yosher</title>
+      <description>Shiur #106 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 27/11/2024.</description>
+      <pubDate>Wed, 27 Nov 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-106-2024-11-27</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-11-27.mp3" length="9297545" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>106</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #106 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 27/11/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#105 Orchot Yosher</title>
+      <description>Shiur #105 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 26/11/2024.</description>
+      <pubDate>Tue, 26 Nov 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-105-2024-11-26</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-11-26.mp3" length="8938518" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>105</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #105 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 26/11/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#104 Orchot Yosher</title>
+      <description>Shiur #104 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 25/11/2024.</description>
+      <pubDate>Mon, 25 Nov 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-104-2024-11-25</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-11-25.mp3" length="8062057" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>104</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #104 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 25/11/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#103 Orchot Yosher</title>
+      <description>Shiur #103 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 24/11/2024.</description>
+      <pubDate>Sun, 24 Nov 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-103-2024-11-24</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-11-24.mp3" length="10156869" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>103</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #103 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 24/11/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#102 Orchot Yosher</title>
+      <description>Shiur #102 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 22/11/2024.</description>
+      <pubDate>Fri, 22 Nov 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-102-2024-11-22</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-11-22.mp3" length="8822325" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>102</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #102 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 22/11/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#101 Orchot Yosher</title>
+      <description>Shiur #101 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 21/11/2024.</description>
+      <pubDate>Thu, 21 Nov 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-101-2024-11-21</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-11-21.mp3" length="8821489" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>101</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #101 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 21/11/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#100 Orchot Yosher</title>
+      <description>Shiur #100 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 20/11/2024.</description>
+      <pubDate>Wed, 20 Nov 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-100-2024-11-20</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-11-20.mp3" length="8870390" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>100</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #100 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 20/11/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#099 Orchot Yosher</title>
+      <description>Shiur #099 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 19/11/2024.</description>
+      <pubDate>Tue, 19 Nov 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-099-2024-11-19</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-11-19.mp3" length="8045757" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>99</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #099 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 19/11/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#098 Orchot Yosher</title>
+      <description>Shiur #098 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 18/11/2024.</description>
+      <pubDate>Mon, 18 Nov 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-098-2024-11-18</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-11-18.mp3" length="8591194" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>98</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #098 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 18/11/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#097 Orchot Yosher</title>
+      <description>Shiur #097 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 17/11/2024.</description>
+      <pubDate>Sun, 17 Nov 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-097-2024-11-17</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-11-17.mp3" length="7782025" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>97</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #097 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 17/11/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#096 Orchot Yosher</title>
+      <description>Shiur #096 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 15/11/2024.</description>
+      <pubDate>Fri, 15 Nov 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-096-2024-11-15</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-11-15.mp3" length="9252405" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>96</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #096 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 15/11/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#095 Orchot Yosher</title>
+      <description>Shiur #095 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 14/11/2024.</description>
+      <pubDate>Thu, 14 Nov 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-095-2024-11-14</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-11-14.mp3" length="9678723" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>95</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #095 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 14/11/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#094 Orchot Yosher</title>
+      <description>Shiur #094 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 13/11/2024.</description>
+      <pubDate>Wed, 13 Nov 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-094-2024-11-13</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-11-13.mp3" length="9243210" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>94</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #094 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 13/11/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#093 Orchot Yosher</title>
+      <description>Shiur #093 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 12/11/2024.</description>
+      <pubDate>Tue, 12 Nov 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-093-2024-11-12</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-11-12.mp3" length="10046527" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>93</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #093 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 12/11/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#092 Orchot Yosher</title>
+      <description>Shiur #092 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 11/11/2024.</description>
+      <pubDate>Mon, 11 Nov 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-092-2024-11-11</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-11-11.mp3" length="7810864" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>92</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #092 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 11/11/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#091 Orchot Yosher</title>
+      <description>Shiur #091 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 10/11/2024.</description>
+      <pubDate>Sun, 10 Nov 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-091-2024-11-10</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-11-10.mp3" length="8871644" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>91</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #091 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 10/11/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#090 Orchot Yosher</title>
+      <description>Shiur #090 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 08/11/2024.</description>
+      <pubDate>Fri, 08 Nov 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-090-2024-11-08</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-11-08.mp3" length="8548980" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>90</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #090 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 08/11/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#089 Orchot Yosher</title>
+      <description>Shiur #089 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 07/11/2024.</description>
+      <pubDate>Thu, 07 Nov 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-089-2024-11-07</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-11-07.m4a" length="13758934" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>89</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #089 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 07/11/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#088 Orchot Yosher</title>
+      <description>Shiur #088 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 06/11/2024.</description>
+      <pubDate>Wed, 06 Nov 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-088-2024-11-06</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-11-06.mp3" length="8911768" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>88</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #088 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 06/11/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#087 Orchot Yosher</title>
+      <description>Shiur #087 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 05/11/2024.</description>
+      <pubDate>Tue, 05 Nov 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-087-2024-11-05</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-11-05.mp3" length="8859105" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>87</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #087 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 05/11/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#086 Orchot Yosher</title>
+      <description>Shiur #086 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 04/11/2024.</description>
+      <pubDate>Mon, 04 Nov 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-086-2024-11-04</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-11-04.mp3" length="8413561" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>86</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #086 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 04/11/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#085 Orchot Yosher</title>
+      <description>Shiur #085 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 03/11/2024.</description>
+      <pubDate>Sun, 03 Nov 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-085-2024-11-03</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-11-03.mp3" length="7208585" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>85</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #085 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 03/11/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#084 Orchot Yosher</title>
+      <description>Shiur #084 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 01/11/2024.</description>
+      <pubDate>Fri, 01 Nov 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-084-2024-11-01</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-11-01.m4a" length="19754969" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>84</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #084 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 01/11/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#083 Orchot Yosher</title>
+      <description>Shiur #083 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 31/10/2024.</description>
+      <pubDate>Thu, 31 Oct 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-083-2024-10-31</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-10-31.mp3" length="9066413" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>83</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #083 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 31/10/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#082 Orchot Yosher</title>
+      <description>Shiur #082 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 30/10/2024.</description>
+      <pubDate>Wed, 30 Oct 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-082-2024-10-30</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-10-30.mp3" length="9451354" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>82</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #082 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 30/10/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#081 Orchot Yosher</title>
+      <description>Shiur #081 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 29/10/2024.</description>
+      <pubDate>Tue, 29 Oct 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-081-2024-10-29</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-10-29.mp3" length="8311997" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>81</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #081 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 29/10/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#080 Orchot Yosher</title>
+      <description>Shiur #080 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 28/10/2024.</description>
+      <pubDate>Mon, 28 Oct 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-080-2024-10-28</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-10-28.mp3" length="9442576" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>80</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #080 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 28/10/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#079 Orchot Yosher</title>
+      <description>Shiur #079 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 27/10/2024.</description>
+      <pubDate>Sun, 27 Oct 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-079-2024-10-27</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-10-27.mp3" length="7521636" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>79</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #079 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 27/10/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#078 Orchot Yosher</title>
+      <description>Shiur #078 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 23/10/2024.</description>
+      <pubDate>Wed, 23 Oct 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-078-2024-10-23</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-10-23.m4a" length="8312686" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>78</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #078 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 23/10/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#077 Orchot Yosher</title>
+      <description>Shiur #077 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 22/10/2024.</description>
+      <pubDate>Tue, 22 Oct 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-077-2024-10-22</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-10-22.m4a" length="9474556" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>77</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #077 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 22/10/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#076 Orchot Yosher</title>
+      <description>Shiur #076 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 21/10/2024.</description>
+      <pubDate>Mon, 21 Oct 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-076-2024-10-21</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-10-21.mp3" length="9347700" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>76</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #076 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 21/10/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#075 Orchot Yosher</title>
+      <description>Shiur #075 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 20/10/2024.</description>
+      <pubDate>Sun, 20 Oct 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-075-2024-10-20</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-10-20.mp3" length="7740647" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>75</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #075 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 20/10/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#074 Orchot Yosher</title>
+      <description>Shiur #074 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 16/10/2024.</description>
+      <pubDate>Wed, 16 Oct 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-074-2024-10-16</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-10-16.mp3" length="6997515" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>74</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #074 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 16/10/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#073 Orchot Yosher</title>
+      <description>Shiur #073 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 15/10/2024.</description>
+      <pubDate>Tue, 15 Oct 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-073-2024-10-15</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-10-15.mp3" length="8254318" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>73</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #073 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 15/10/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#072 Orchot Yosher</title>
+      <description>Shiur #072 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 14/10/2024.</description>
+      <pubDate>Mon, 14 Oct 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-072-2024-10-14</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-10-14.mp3" length="8537277" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>72</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #072 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 14/10/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#071 Orchot Yosher</title>
+      <description>Shiur #071 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 13/10/2024.</description>
+      <pubDate>Sun, 13 Oct 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-071-2024-10-13</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-10-13.mp3" length="6368905" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>71</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #071 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 13/10/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#070 Orchot Yosher</title>
+      <description>Shiur #070 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 05/09/2024.</description>
+      <pubDate>Thu, 05 Sep 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-070-2024-09-05</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-09-05.m4a" length="8968556" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>70</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #070 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 05/09/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#069 Orchot Yosher</title>
+      <description>Shiur #069 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 04/09/2024.</description>
+      <pubDate>Wed, 04 Sep 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-069-2024-09-04</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-09-04.m4a" length="8285801" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>69</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #069 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 04/09/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#068 Orchot Yosher</title>
+      <description>Shiur #068 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 03/09/2024.</description>
+      <pubDate>Tue, 03 Sep 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-068-2024-09-03</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-09-03.m4a" length="7510370" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>68</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #068 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 03/09/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#067 Orchot Yosher</title>
+      <description>Shiur #067 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 02/09/2024.</description>
+      <pubDate>Mon, 02 Sep 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-067-2024-09-02</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-09-02.m4a" length="7691062" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>67</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #067 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 02/09/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#066 Orchot Yosher</title>
+      <description>Shiur #066 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 01/09/2024.</description>
+      <pubDate>Sun, 01 Sep 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-066-2024-09-01</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-09-01.m4a" length="7803334" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>66</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #066 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 01/09/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#065 Orchot Yosher</title>
+      <description>Shiur #065 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 30/08/2024.</description>
+      <pubDate>Fri, 30 Aug 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-065-2024-08-30</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-08-30.m4a" length="7210583" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>65</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #065 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 30/08/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#064 Orchot Yosher</title>
+      <description>Shiur #064 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 29/08/2024.</description>
+      <pubDate>Thu, 29 Aug 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-064-2024-08-29</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-08-29.m4a" length="8655628" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>64</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #064 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 29/08/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#063 Orchot Yosher</title>
+      <description>Shiur #063 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 28/08/2024.</description>
+      <pubDate>Wed, 28 Aug 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-063-2024-08-28</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-08-28.m4a" length="7142146" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>63</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #063 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 28/08/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#062 Orchot Yosher</title>
+      <description>Shiur #062 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 27/08/2024.</description>
+      <pubDate>Tue, 27 Aug 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-062-2024-08-27</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-08-27.m4a" length="7629173" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>62</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #062 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 27/08/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#061 Orchot Yosher</title>
+      <description>Shiur #061 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 26/08/2024.</description>
+      <pubDate>Mon, 26 Aug 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-061-2024-08-26</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-08-26.m4a" length="7813726" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>61</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #061 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 26/08/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#060 Orchot Yosher</title>
+      <description>Shiur #060 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 25/08/2024.</description>
+      <pubDate>Sun, 25 Aug 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-060-2024-08-25</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-08-25.m4a" length="8332706" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>60</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #060 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 25/08/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#059 Orchot Yosher</title>
+      <description>Shiur #059 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 23/08/2024.</description>
+      <pubDate>Fri, 23 Aug 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-059-2024-08-23</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-08-23.m4a" length="8997423" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>59</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #059 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 23/08/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#058 Orchot Yosher</title>
+      <description>Shiur #058 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 22/08/2024.</description>
+      <pubDate>Thu, 22 Aug 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-058-2024-08-22</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-08-22.m4a" length="8123551" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>58</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #058 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 22/08/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#057 Orchot Yosher</title>
+      <description>Shiur #057 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 21/08/2024.</description>
+      <pubDate>Wed, 21 Aug 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-057-2024-08-21</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-08-21.m4a" length="7537706" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>57</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #057 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 21/08/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#056 Orchot Yosher</title>
+      <description>Shiur #056 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 20/08/2024.</description>
+      <pubDate>Tue, 20 Aug 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-056-2024-08-20</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-08-20.m4a" length="7302018" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>56</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #056 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 20/08/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#055 Orchot Yosher</title>
+      <description>Shiur #055 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 19/08/2024.</description>
+      <pubDate>Mon, 19 Aug 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-055-2024-08-19</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-08-19.m4a" length="6861492" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>55</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #055 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 19/08/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#054 Orchot Yosher</title>
+      <description>Shiur #054 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 18/08/2024.</description>
+      <pubDate>Sun, 18 Aug 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-054-2024-08-18</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-08-18.m4a" length="7931339" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>54</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #054 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 18/08/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#053 Orchot Yosher</title>
+      <description>Shiur #053 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 16/08/2024.</description>
+      <pubDate>Fri, 16 Aug 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-053-2024-08-16</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-08-16.m4a" length="6930274" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>53</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #053 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 16/08/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#052 Orchot Yosher</title>
+      <description>Shiur #052 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 15/08/2024.</description>
+      <pubDate>Thu, 15 Aug 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-052-2024-08-15</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-08-15.m4a" length="7594997" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>52</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #052 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 15/08/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#051 Orchot Yosher</title>
+      <description>Shiur #051 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 14/08/2024.</description>
+      <pubDate>Wed, 14 Aug 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-051-2024-08-14</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-08-14.m4a" length="7430025" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>51</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #051 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 14/08/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#050 Orchot Yosher</title>
+      <description>Shiur #050 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 13/08/2024.</description>
+      <pubDate>Tue, 13 Aug 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-050-2024-08-13</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-08-13.m4a" length="10920690" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #050 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 13/08/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#049 Orchot Yosher</title>
+      <description>Shiur #049 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 12/08/2024.</description>
+      <pubDate>Mon, 12 Aug 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-049-2024-08-12</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-08-12.m4a" length="7508077" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>49</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #049 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 12/08/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#048 Orchot Yosher</title>
+      <description>Shiur #048 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 11/08/2024.</description>
+      <pubDate>Sun, 11 Aug 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-048-2024-08-11</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-08-11.m4a" length="8937070" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>48</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #048 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 11/08/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#047 Orchot Yosher</title>
+      <description>Shiur #047 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 09/08/2024.</description>
+      <pubDate>Fri, 09 Aug 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-047-2024-08-09</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-08-09.m4a" length="7614955" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #047 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 09/08/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#046 Orchot Yosher</title>
+      <description>Shiur #046 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 08/08/2024.</description>
+      <pubDate>Thu, 08 Aug 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-046-2024-08-08</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-08-08.m4a" length="7917531" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #046 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 08/08/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#045 Orchot Yosher</title>
+      <description>Shiur #045 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 07/08/2024.</description>
+      <pubDate>Wed, 07 Aug 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-045-2024-08-07</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-08-07.m4a" length="6424757" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #045 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 07/08/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#044 Orchot Yosher</title>
+      <description>Shiur #044 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 06/08/2024.</description>
+      <pubDate>Tue, 06 Aug 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-044-2024-08-06</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-08-06.m4a" length="6764294" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #044 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 06/08/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#043 Orchot Yosher</title>
+      <description>Shiur #043 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 05/08/2024.</description>
+      <pubDate>Mon, 05 Aug 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-043-2024-08-05</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-08-05.m4a" length="7718017" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #043 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 05/08/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#042 Orchot Yosher</title>
+      <description>Shiur #042 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 04/08/2024.</description>
+      <pubDate>Sun, 04 Aug 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-042-2024-08-04</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-08-04.m4a" length="7305108" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #042 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 04/08/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#041 Orchot Yosher</title>
+      <description>Shiur #041 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 01/08/2024.</description>
+      <pubDate>Thu, 01 Aug 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-041-2024-08-01</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-08-01.m4a" length="6814651" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #041 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 01/08/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#040 Orchot Yosher</title>
+      <description>Shiur #040 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 31/07/2024.</description>
+      <pubDate>Wed, 31 Jul 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-040-2024-07-31</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-07-31.m4a" length="7651853" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #040 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 31/07/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#039 Orchot Yosher</title>
+      <description>Shiur #039 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 30/07/2024.</description>
+      <pubDate>Tue, 30 Jul 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-039-2024-07-30</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-07-30.m4a" length="7226312" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #039 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 30/07/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#038 Orchot Yosher</title>
+      <description>Shiur #038 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 29/07/2024.</description>
+      <pubDate>Mon, 29 Jul 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-038-2024-07-29</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-07-29.m4a" length="6481289" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #038 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 29/07/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#037 Orchot Yosher</title>
+      <description>Shiur #037 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 28/07/2024.</description>
+      <pubDate>Sun, 28 Jul 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-037-2024-07-28</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-07-28.m4a" length="6830303" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #037 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 28/07/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#036 Orchot Yosher</title>
+      <description>Shiur #036 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 26/07/2024.</description>
+      <pubDate>Fri, 26 Jul 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-036-2024-07-26</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-07-26.m4a" length="6503184" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #036 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 26/07/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#035 Orchot Yosher</title>
+      <description>Shiur #035 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 24/07/2024.</description>
+      <pubDate>Wed, 24 Jul 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-035-2024-07-24</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-07-24.m4a" length="7767958" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #035 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 24/07/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#034 Orchot Yosher</title>
+      <description>Shiur #034 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 23/07/2024.</description>
+      <pubDate>Tue, 23 Jul 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-034-2024-07-23</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-07-23.m4a" length="7128294" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>34</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #034 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 23/07/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#033 Orchot Yosher</title>
+      <description>Shiur #033 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 22/07/2024.</description>
+      <pubDate>Mon, 22 Jul 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-033-2024-07-22</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-07-22.m4a" length="7633501" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #033 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 22/07/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#032 Orchot Yosher</title>
+      <description>Shiur #032 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 21/07/2024.</description>
+      <pubDate>Sun, 21 Jul 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-032-2024-07-21</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-07-21.m4a" length="8865138" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #032 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 21/07/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#031 Orchot Yosher</title>
+      <description>Shiur #031 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 19/07/2024.</description>
+      <pubDate>Fri, 19 Jul 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-031-2024-07-19</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-07-19.m4a" length="7598838" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #031 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 19/07/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#030 Orchot Yosher</title>
+      <description>Shiur #030 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 18/07/2024.</description>
+      <pubDate>Thu, 18 Jul 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-030-2024-07-18</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-07-18.m4a" length="7078324" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #030 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 18/07/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#029 Orchot Yosher</title>
+      <description>Shiur #029 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 17/07/2024.</description>
+      <pubDate>Wed, 17 Jul 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-029-2024-07-17</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-07-17.m4a" length="7959513" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #029 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 17/07/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#028 Orchot Yosher</title>
+      <description>Shiur #028 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 16/07/2024.</description>
+      <pubDate>Tue, 16 Jul 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-028-2024-07-16</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-07-16.m4a" length="8535718" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #028 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 16/07/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#027 Orchot Yosher</title>
+      <description>Shiur #027 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 15/07/2024.</description>
+      <pubDate>Mon, 15 Jul 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-027-2024-07-15</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-07-15.m4a" length="7108658" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #027 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 15/07/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#026 Orchot Yosher</title>
+      <description>Shiur #026 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 14/07/2024.</description>
+      <pubDate>Sun, 14 Jul 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-026-2024-07-14</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-07-14.m4a" length="8085856" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #026 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 14/07/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#025 Orchot Yosher</title>
+      <description>Shiur #025 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 12/07/2024.</description>
+      <pubDate>Fri, 12 Jul 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-025-2024-07-12</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-07-12.m4a" length="8281913" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #025 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 12/07/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#024 Orchot Yosher</title>
+      <description>Shiur #024 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 11/07/2024.</description>
+      <pubDate>Thu, 11 Jul 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-024-2024-07-11</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-07-11.m4a" length="9051204" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #024 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 11/07/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#023 Orchot Yosher</title>
+      <description>Shiur #023 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 10/07/2024.</description>
+      <pubDate>Wed, 10 Jul 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-023-2024-07-10</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-07-10.m4a" length="7066828" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #023 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 10/07/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#022 Orchot Yosher</title>
+      <description>Shiur #022 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 09/07/2024.</description>
+      <pubDate>Tue, 09 Jul 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-022-2024-07-09</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-07-09.m4a" length="8580252" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #022 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 09/07/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#021 Orchot Yosher</title>
+      <description>Shiur #021 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 08/07/2024.</description>
+      <pubDate>Mon, 08 Jul 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-021-2024-07-08</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-07-08.m4a" length="6638854" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #021 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 08/07/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#020 Orchot Yosher</title>
+      <description>Shiur #020 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 07/07/2024.</description>
+      <pubDate>Sun, 07 Jul 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-020-2024-07-07</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-07-07.m4a" length="7718742" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #020 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 07/07/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#019 Orchot Yosher</title>
+      <description>Shiur #019 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 05/07/2024.</description>
+      <pubDate>Fri, 05 Jul 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-019-2024-07-05</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-07-05.m4a" length="8284632" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #019 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 05/07/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#018 Orchot Yosher</title>
+      <description>Shiur #018 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 04/07/2024.</description>
+      <pubDate>Thu, 04 Jul 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-018-2024-07-04</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-07-04.m4a" length="9624374" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #018 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 04/07/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#017 Orchot Yosher</title>
+      <description>Shiur #017 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 03/07/2024.</description>
+      <pubDate>Wed, 03 Jul 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-017-2024-07-03</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-07-03.m4a" length="9191528" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #017 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 03/07/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#016 Orchot Yosher</title>
+      <description>Shiur #016 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 02/07/2024.</description>
+      <pubDate>Tue, 02 Jul 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-016-2024-07-02</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-07-02.m4a" length="7781807" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #016 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 02/07/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#015 Orchot Yosher</title>
+      <description>Shiur #015 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 01/07/2024.</description>
+      <pubDate>Mon, 01 Jul 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-015-2024-07-01</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-07-01.m4a" length="7269447" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #015 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 01/07/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#014 Orchot Yosher</title>
+      <description>Shiur #014 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 30/06/2024.</description>
+      <pubDate>Sun, 30 Jun 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-014-2024-06-30</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-06-30.m4a" length="8275871" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #014 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 30/06/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#013 Orchot Yosher</title>
+      <description>Shiur #013 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 28/06/2024.</description>
+      <pubDate>Fri, 28 Jun 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-013-2024-06-28</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-06-28.m4a" length="6600429" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #013 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 28/06/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#012 Orchot Yosher</title>
+      <description>Shiur #012 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 27/06/2024.</description>
+      <pubDate>Thu, 27 Jun 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-012-2024-06-27</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-06-27.m4a" length="6790394" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #012 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 27/06/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#011 Orchot Yosher</title>
+      <description>Shiur #011 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 26/06/2024.</description>
+      <pubDate>Wed, 26 Jun 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-011-2024-06-26</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-06-26.m4a" length="7515761" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #011 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 26/06/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#010 Orchot Yosher</title>
+      <description>Shiur #010 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 25/06/2024.</description>
+      <pubDate>Tue, 25 Jun 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-010-2024-06-25</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-06-25.m4a" length="7548068" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #010 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 25/06/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#009 Orchot Yosher</title>
+      <description>Shiur #009 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 24/06/2024.</description>
+      <pubDate>Mon, 24 Jun 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-009-2024-06-24</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-06-24.m4a" length="6354826" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #009 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 24/06/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#008 Orchot Yosher</title>
+      <description>Shiur #008 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 23/06/2024.</description>
+      <pubDate>Sun, 23 Jun 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-008-2024-06-23</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-06-23.m4a" length="8283904" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #008 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 23/06/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#007 Orchot Yosher</title>
+      <description>Shiur #007 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 21/06/2024.</description>
+      <pubDate>Fri, 21 Jun 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-007-2024-06-21</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-06-21.m4a" length="5358713" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #007 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 21/06/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#006 Orchot Yosher</title>
+      <description>Shiur #006 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 20/06/2024.</description>
+      <pubDate>Thu, 20 Jun 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-006-2024-06-20</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-06-20.m4a" length="7287874" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #006 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 20/06/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#005 Orchot Yosher</title>
+      <description>Shiur #005 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 19/06/2024.</description>
+      <pubDate>Wed, 19 Jun 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-005-2024-06-19</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-06-19.m4a" length="6701929" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #005 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 19/06/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#004 Orchot Yosher</title>
+      <description>Shiur #004 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 18/06/2024.</description>
+      <pubDate>Tue, 18 Jun 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-004-2024-06-18</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-06-18.m4a" length="6720464" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #004 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 18/06/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#003 Orchot Yosher</title>
+      <description>Shiur #003 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 17/06/2024.</description>
+      <pubDate>Mon, 17 Jun 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-003-2024-06-17</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-06-17.m4a" length="6099907" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #003 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 17/06/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#002 Orchot Yosher</title>
+      <description>Shiur #002 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 16/06/2024.</description>
+      <pubDate>Sun, 16 Jun 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-002-2024-06-16</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-06-16.m4a" length="8052813" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #002 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 16/06/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#001 Orchot Yosher</title>
+      <description>Shiur #001 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 14/06/2024.</description>
+      <pubDate>Fri, 14 Jun 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">orchot-yosher-001-2024-06-14</guid>
+      <enclosure url="https://archive.org/download/2024-11-01_202609/2024-06-14.m4a" length="7087520" type="audio/mp4" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Shiur #001 do livro Orchot Yosher (ארחות יושר), ministrado por R. Ariel Marcus. Um estudo breve de mussar para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original do shiur: 14/06/2024.</itunes:summary>
+    </item>
+  </channel>
+</rss>
