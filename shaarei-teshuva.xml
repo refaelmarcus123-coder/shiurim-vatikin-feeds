@@ -1,0 +1,374 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Shaarei Teshuva — Shiur Diário — R. Ariel Marcus</title>
+    <link>https://refaelmarcus123-coder.github.io/shiurim-vatikin-feeds/</link>
+    <description>Shiurim curtos e diários sobre o livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrados por R. Ariel Marcus. Clássico da literatura de Mussar, escrito no século XIII, a obra apresenta de forma clara e profunda o caminho da teshuvá: seus fundamentos, como despertar o coração para o retorno, o peso de cada mitzvá e os caminhos para alcançar o perdão. Esta série reúne 29 estudos organizados em sequência, preservados em ordem cronológica e com a data original de cada shiur. Ideal para o ano inteiro e, de forma especial, para o mês de Elul e os Dez Dias de Teshuvá, quando nos preparamos para Rosh Hashaná e Yom Kipur.</description>
+    <language>pt-BR</language>
+    <atom:link href="https://refaelmarcus123-coder.github.io/shiurim-vatikin-feeds/shaarei-teshuva.xml" rel="self" type="application/rss+xml" />
+    <itunes:owner>
+      <itunes:name>R. Ariel Marcus</itunes:name>
+      <itunes:email>refa5518@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>R. Ariel Marcus</itunes:author>
+    <itunes:image href="https://refaelmarcus123-coder.github.io/shiurim-vatikin-feeds/shaarei-teshuva.jpg" />
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism" />
+    </itunes:category>
+    <image>
+      <url>https://refaelmarcus123-coder.github.io/shiurim-vatikin-feeds/shaarei-teshuva.jpg</url>
+      <title>Shaarei Teshuva — Shiur Diário — R. Ariel Marcus</title>
+      <link>https://refaelmarcus123-coder.github.io/shiurim-vatikin-feeds/</link>
+    </image>
+    <item>
+      <title>#29 Shaarei Teshuva</title>
+      <description>Estudo nº 29 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 11/10/2024.</description>
+      <pubDate>Fri, 11 Oct 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-29-2024-10-11</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-10-11.mp3" length="6920602" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 29 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 11/10/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#28 Shaarei Teshuva</title>
+      <description>Estudo nº 28 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 10/10/2024.</description>
+      <pubDate>Thu, 10 Oct 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-28-2024-10-10</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-10-10.mp3" length="8703181" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 28 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 10/10/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#27 Shaarei Teshuva</title>
+      <description>Estudo nº 27 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 09/10/2024.</description>
+      <pubDate>Wed, 09 Oct 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-27-2024-10-09</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-10-09.mp3" length="7130317" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 27 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 09/10/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#26 Shaarei Teshuva</title>
+      <description>Estudo nº 26 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 08/10/2024.</description>
+      <pubDate>Tue, 08 Oct 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-26-2024-10-08</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-10-08.mp3" length="9227469" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 26 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 08/10/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#25 Shaarei Teshuva</title>
+      <description>Estudo nº 25 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 07/10/2024.</description>
+      <pubDate>Mon, 07 Oct 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-25-2024-10-07</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-10-07.mp3" length="8178893" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 25 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 07/10/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#24 Shaarei Teshuva</title>
+      <description>Estudo nº 24 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 06/10/2024.</description>
+      <pubDate>Sun, 06 Oct 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-24-2024-10-06</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-10-06.mp3" length="7444890" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 24 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 06/10/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#23 Shaarei Teshuva</title>
+      <description>Estudo nº 23 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 02/10/2024.</description>
+      <pubDate>Wed, 02 Oct 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-23-2024-10-02</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-10-02.mp3" length="7549747" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 23 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 02/10/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#22 Shaarei Teshuva</title>
+      <description>Estudo nº 22 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 01/10/2024.</description>
+      <pubDate>Tue, 01 Oct 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-22-2024-10-01</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-10-01.mp3" length="6710886" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 22 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 01/10/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#21 Shaarei Teshuva</title>
+      <description>Estudo nº 21 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 30/09/2024.</description>
+      <pubDate>Mon, 30 Sep 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-21-2024-09-30</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-09-30.mp3" length="7864320" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 21 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 30/09/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#20 Shaarei Teshuva</title>
+      <description>Estudo nº 20 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 29/09/2024.</description>
+      <pubDate>Sun, 29 Sep 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-20-2024-09-29</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-09-29.mp3" length="7444890" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 20 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 29/09/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#19 Shaarei Teshuva</title>
+      <description>Estudo nº 19 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 27/09/2024.</description>
+      <pubDate>Fri, 27 Sep 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-19-2024-09-27</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-09-27.mp3" length="8598323" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 19 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 27/09/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#18 Shaarei Teshuva</title>
+      <description>Estudo nº 18 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 26/09/2024.</description>
+      <pubDate>Thu, 26 Sep 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-18-2024-09-26</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-09-26.mp3" length="6920602" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 18 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 26/09/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#17 Shaarei Teshuva</title>
+      <description>Estudo nº 17 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 25/09/2024.</description>
+      <pubDate>Wed, 25 Sep 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-17-2024-09-25</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-09-25.mp3" length="8703181" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 17 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 25/09/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#16 Shaarei Teshuva</title>
+      <description>Estudo nº 16 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 24/09/2024.</description>
+      <pubDate>Tue, 24 Sep 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-16-2024-09-24</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-09-24.mp3" length="9751757" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 16 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 24/09/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#15 Shaarei Teshuva</title>
+      <description>Estudo nº 15 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 23/09/2024.</description>
+      <pubDate>Mon, 23 Sep 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-15-2024-09-23</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-09-23.mp3" length="7340032" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 15 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 23/09/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#14 Shaarei Teshuva</title>
+      <description>Estudo nº 14 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 22/09/2024.</description>
+      <pubDate>Sun, 22 Sep 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-14-2024-09-22</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-09-22.mp3" length="3670016" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 14 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 22/09/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#13 Shaarei Teshuva</title>
+      <description>Estudo nº 13 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 20/09/2024.</description>
+      <pubDate>Fri, 20 Sep 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-13-2024-09-20</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-09-20.mp3" length="3460301" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 13 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 20/09/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#12 Shaarei Teshuva</title>
+      <description>Estudo nº 12 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 19/09/2024.</description>
+      <pubDate>Thu, 19 Sep 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-12-2024-09-19</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-09-19.mp3" length="8703181" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 12 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 19/09/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#11 Shaarei Teshuva</title>
+      <description>Estudo nº 11 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 18/09/2024.</description>
+      <pubDate>Wed, 18 Sep 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-11-2024-09-18</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-09-18.mp3" length="6501171" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 11 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 18/09/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#10 Shaarei Teshuva</title>
+      <description>Estudo nº 10 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 17/09/2024.</description>
+      <pubDate>Tue, 17 Sep 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-10-2024-09-17</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-09-17.mp3" length="7759462" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 10 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 17/09/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#09 Shaarei Teshuva</title>
+      <description>Estudo nº 09 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 16/09/2024.</description>
+      <pubDate>Mon, 16 Sep 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-09-2024-09-16</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-09-16.mp3" length="2726298" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 09 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 16/09/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#08 Shaarei Teshuva</title>
+      <description>Estudo nº 08 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 15/09/2024.</description>
+      <pubDate>Sun, 15 Sep 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-08-2024-09-15</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-09-15.mp3" length="6920602" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 08 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 15/09/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#07 Shaarei Teshuva</title>
+      <description>Estudo nº 07 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 13/09/2024.</description>
+      <pubDate>Fri, 13 Sep 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-07-2024-09-13</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-09-13.mp3" length="8912896" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 07 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 13/09/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#06 Shaarei Teshuva</title>
+      <description>Estudo nº 06 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 12/09/2024.</description>
+      <pubDate>Thu, 12 Sep 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-06-2024-09-12</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-09-12.mp3" length="8388608" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 06 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 12/09/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#05 Shaarei Teshuva</title>
+      <description>Estudo nº 05 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 11/09/2024.</description>
+      <pubDate>Wed, 11 Sep 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-05-2024-09-11</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-09-11.mp3" length="8074035" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 05 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 11/09/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#04 Shaarei Teshuva</title>
+      <description>Estudo nº 04 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 10/09/2024.</description>
+      <pubDate>Tue, 10 Sep 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-04-2024-09-10</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-09-10.mp3" length="8388608" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 04 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 10/09/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#03 Shaarei Teshuva</title>
+      <description>Estudo nº 03 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 09/09/2024.</description>
+      <pubDate>Mon, 09 Sep 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-03-2024-09-09</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-09-09.mp3" length="6606029" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 03 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 09/09/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#02 Shaarei Teshuva</title>
+      <description>Estudo nº 02 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 08/09/2024.</description>
+      <pubDate>Sun, 08 Sep 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-02-2024-09-08</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-09-08.mp3" length="8808038" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 02 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 08/09/2024.</itunes:summary>
+    </item>
+    <item>
+      <title>#01 Shaarei Teshuva</title>
+      <description>Estudo nº 01 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 06/09/2024.</description>
+      <pubDate>Fri, 06 Sep 2024 12:00:00 -0300</pubDate>
+      <guid isPermaLink="false">shaarei-teshuva-01-2024-09-06</guid>
+      <enclosure url="https://archive.org/download/2024-09-24_202611/2024-09-06.mp3" length="8178893" type="audio/mpeg" />
+      <itunes:author>R. Ariel Marcus</itunes:author>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Estudo nº 01 do livro Shaarei Teshuva (שערי תשובה), de Rabenu Yona zt"l, ministrado por R. Ariel Marcus. Um estudo breve para trazer reflexão, inspiração e crescimento pessoal ao dia — seja pela manhã ou em qualquer outro momento — com os ensinamentos de teshuvá, importantes para o ano inteiro e de forma especial para o mês de Elul. Série organizada em sequência para acompanhar os ensinamentos do livro de forma contínua. Data original: 06/09/2024.</itunes:summary>
+    </item>
+  </channel>
+</rss>
