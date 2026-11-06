@@ -1,84 +1,103 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shiurim R. Ariel Marcus</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Shiurim R. Ariel Marcus</title>
 
-    <style>
-        body {
-            font-family: Georgia, serif;
-            text-align: center;
-            background-color: #f8f6f1;
-            margin: 0;
-            padding: 40px 20px 60px;
-            color: #2c3e50;
-        }
+<style>
 
-        h1 {
-            font-size: 3.2em;
-            margin-bottom: 50px;
-        }
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
 
-        .album {
-            margin: 35px auto;
-        }
+body{
+    font-family:Georgia,serif;
+    background:#f8f6f1;
+    color:#2c3e50;
+}
 
-        .album img {
-            width: 180px;
-            max-width: 80%;
-            border-radius: 12px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-            display: block;
-            margin: 0 auto 12px;
-        }
+header{
+    text-align:center;
+    padding:60px 20px 40px;
+}
 
-        .album a {
-            font-size: 1.4em;
-            font-weight: bold;
-            color: #1e6091;
-            text-decoration: none;
-        }
+h1{
+    font-size:3rem;
+    margin-bottom:10px;
+}
 
-        .album a:hover {
-            color: #0c3c60;
-            text-decoration: underline;
-        }
-    </style>
+.subtitle{
+    font-size:1.1rem;
+    color:#6c757d;
+}
+
+.grid{
+    max-width:1200px;
+    margin:auto;
+    padding:20px 30px 60px;
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+    gap:35px;
+}
+
+.card{
+    display:block;
+    border-radius:18px;
+    overflow:hidden;
+    box-shadow:0 8px 25px rgba(0,0,0,.15);
+    transition:.3s;
+    text-decoration:none;
+}
+
+.card:hover{
+    transform:translateY(-8px);
+    box-shadow:0 15px 35px rgba(0,0,0,.22);
+}
+
+.card img{
+    width:100%;
+    display:block;
+}
+
+</style>
 </head>
 <body>
 
+<header>
     <h1>Shiurim R. Ariel Marcus</h1>
+    <div class="subtitle">Biblioteca de Shiurim</div>
+</header>
 
-    <div class="album">
-        <img src="orchot-yosher.png" alt="Orchot Yosher">
-        <a href="01-orchot-yosher.xml">Orchot Yosher — RSS</a>
-    </div>
+<div class="grid">
 
-    <div class="album">
-        <img src="siftei-chaim.png" alt="Siftei Chaim">
-        <a href="02-siftei-chaim.xml">Siftei Chaim — RSS</a>
-    </div>
+<a class="card" href="01-orchot-yosher.xml">
+    <img src="orchot-yosher.png" alt="Orchot Yosher">
+</a>
 
-    <div class="album">
-        <img src="chovot-halevavot.jpg" alt="Chovot Halevavot">
-        <a href="chovot-halevavot.xml">Chovot Halevavot — RSS</a>
-    </div>
+<a class="card" href="02-siftei-chaim.xml">
+    <img src="siftei-chaim.png" alt="Siftei Chaim">
+</a>
 
-    <div class="album">
-        <img src="shearim-betfila.jpg" alt="Shearim Betfila">
-        <a href="shearim-betfila.xml">Shearim Betfila — RSS</a>
-    </div>
+<a class="card" href="chovot-halevavot.xml">
+    <img src="chovot-halevavot.jpg" alt="Chovot Halevavot">
+</a>
 
-    <div class="album">
-        <img src="shaarei-teshuva.jpg" alt="Shaarei Teshuva">
-        <a href="shaarei-teshuva.xml">Shaarei Teshuva — RSS</a>
-    </div>
+<a class="card" href="shearim-betfila.xml">
+    <img src="shearim-betfila.jpg" alt="Shearim Betfila">
+</a>
 
-    <div class="album">
-        <img src="5min-shmirat-halashon.jpg" alt="5 min de Shmirat Halashon">
-        <a href="5min-shmirat-halashon.xml">5 min de Shmirat Halashon — RSS</a>
-    </div>
+<a class="card" href="shaarei-teshuva.xml">
+    <img src="shaarei-teshuva.jpg" alt="Shaarei Teshuva">
+</a>
+
+<a class="card" href="5min-shmirat-halashon.xml">
+    <img src="5min-shmirat-halashon.jpg" alt="5 Min Shmirat Halashon">
+</a>
+
+</div>
 
 </body>
 </html>
